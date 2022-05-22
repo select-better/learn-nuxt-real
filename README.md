@@ -36,6 +36,7 @@ pm2 stop 6 // 6 是 id 就是你上一步启动的时候的 id 也可也 pm2 lis
 
 1. 有 linux 服务器
 2. github 仓库 在 github 创建 action 和 上次发布个人微博的过程类型
+   括号内的数据在 setting secrets 内
 
 ```
 name: GitHub Actions Demo
